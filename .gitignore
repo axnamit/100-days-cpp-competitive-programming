@@ -1,0 +1,16 @@
+# Ignore compiled binaries (Unix / macOS)
+*.out
+*.exe
+*.o
+*.a
+post_linkdin
+post_linkdin/*
+# Ignore files with no extension (CP executables)
+hello
+sumoftwo
+maximumnumbers
+stringprint
+hello_c
+
+# VS Code
+.vscode/
