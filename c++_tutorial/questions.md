@@ -9,13 +9,13 @@
 - [*] Print "Hello Competitive Programming"
 - [*] Take two integers, print their sum
 - [*] Take three numbers, print maximum
-- [ ] Read a string and print it
-- [ ] Take name & age, print formatted output
-- [ ] Read integer and float, print with 2 decimals
-- [ ] Swap two numbers (using temp variable)
-- [ ] Swap two numbers (without temp)
-- [ ] Take input until EOF and print sum
-- [ ] Print multiplication table of a number
+- [*] Read a string and print it
+- [*] Take name & age, print formatted output
+- [*] Read integer and float, print with 2 decimals
+- [*] Swap two numbers (using temp variable)
+- [*] Swap two numbers (without temp)
+- [*] Take input until EOF and print sum
+- [*] Print multiplication table of a number
 
 ## 📗 CHAPTER 2: Conditionals (if / else / switch)
 
