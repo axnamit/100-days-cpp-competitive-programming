@@ -21,10 +21,10 @@
 
 👉 Goal: Logical flow control
 
-- [ ] Check if number is even or odd
-- [ ] Check if number is positive, negative, or zero
-- [ ] Check leap year
-- [ ] Find largest of 3 numbers
+- [*] Check if number is even or odd
+- [*] Check if number is positive, negative, or zero
+- [*] Check leap year
+- [*] Find largest of 3 numbers
 - [ ] Grade calculator (A/B/C/F)
 - [ ] Check if character is vowel or consonant
 - [ ] Calculator using switch case
