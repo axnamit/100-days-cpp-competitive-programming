@@ -25,11 +25,11 @@
 - [*] Check if number is positive, negative, or zero
 - [*] Check leap year
 - [*] Find largest of 3 numbers
-- [ ] Grade calculator (A/B/C/F)
-- [ ] Check if character is vowel or consonant
-- [ ] Calculator using switch case
-- [ ] Check triangle validity
-- [ ] Find type of triangle
+- [*] Grade calculator (A/B/C/F)
+- [*] Check if character is vowel or consonant
+- [*] Calculator using switch case
+- [*] Check triangle validity
+- [*] Find type of triangle
 - [ ] Electricity bill calculation
 
 ## 📙 CHAPTER 3: Loops (for / while / do-while)
