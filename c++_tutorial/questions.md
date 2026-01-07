@@ -30,16 +30,16 @@
 - [*] Calculator using switch case
 - [*] Check triangle validity
 - [*] Find type of triangle
-- [ ] Electricity bill calculation
+- [*] Electricity bill calculation
 
 ## 📙 CHAPTER 3: Loops (for / while / do-while)
 
 👉 Goal: Replace JS loops with C++ style
 
-- [ ] Print numbers from 1 to N
-- [ ] Print even numbers up to N
-- [ ] Sum of first N natural numbers
-- [ ] Factorial of a number
+- [*] Print numbers from 1 to N
+- [*] Print even numbers up to N
+- [*] Sum of first N natural numbers
+- [*] Factorial of a number
 - [ ] Count digits of a number
 - [ ] Reverse a number
 - [ ] Check palindrome number
