@@ -40,9 +40,9 @@
 - [*] Print even numbers up to N
 - [*] Sum of first N natural numbers
 - [*] Factorial of a number
-- [ ] Count digits of a number
-- [ ] Reverse a number
-- [ ] Check palindrome number
+- [*] Count digits of a number
+- [*] Reverse a number
+- [*] Check palindrome number
 - [ ] Print Fibonacci series
 - [ ] Check prime number
 - [ ] Print all primes till N
