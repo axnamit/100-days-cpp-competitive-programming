@@ -43,15 +43,15 @@
 - [*] Count digits of a number
 - [*] Reverse a number
 - [*] Check palindrome number
-- [ ] Print Fibonacci series
-- [ ] Check prime number
-- [ ] Print all primes till N
+- [*] Print Fibonacci series
+- [*] Check prime number
+- [*] Print all primes till N
 
 ## 📕 CHAPTER 4: Functions
 
 👉 Goal: Modular thinking (very CP-important)
 
-- [ ] Function to check prime
+- [*] Function to check prime
 - [ ] Function to compute factorial
 - [ ] Function to reverse number
 - [ ] Function to calculate GCD
