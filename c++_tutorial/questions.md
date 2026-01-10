@@ -52,10 +52,10 @@
 👉 Goal: Modular thinking (very CP-important)
 
 - [*] Function to check prime
-- [ ] Function to compute factorial
-- [ ] Function to reverse number
-- [ ] Function to calculate GCD
-- [ ] Function to calculate LCM
+- [*] Function to compute factorial
+- [*] Function to reverse number
+- [*] Function to calculate GCD
+- [*] Function to calculate LCM
 - [ ] Function to check palindrome
 - [ ] Pass by value vs reference (swap)
 - [ ] Recursive factorial
