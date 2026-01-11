@@ -56,8 +56,8 @@
 - [*] Function to reverse number
 - [*] Function to calculate GCD
 - [*] Function to calculate LCM
-- [ ] Function to check palindrome
-- [ ] Pass by value vs reference (swap)
+- [*] Function to check palindrome
+- [*] Pass by value vs reference (swap)
 - [ ] Recursive factorial
 - [ ] Recursive Fibonacci
 - [ ] Power function (fast exponentiation)
