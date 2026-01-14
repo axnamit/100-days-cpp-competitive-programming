@@ -60,7 +60,7 @@
 - [*] Pass by value vs reference (swap)
 - [*] Recursive factorial
 - [*] Recursive Fibonacci
-- [ ] Power function (fast exponentiation)
+- [*] Power function (fast exponentiation)
 
 ## 📘 CHAPTER 5: Arrays (CORE CP CHAPTER)
 
