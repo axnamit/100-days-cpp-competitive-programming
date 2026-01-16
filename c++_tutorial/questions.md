@@ -67,7 +67,7 @@
 👉 Goal: Heavy logic + constraints thinking
 
 - [*] Find maximum in array
-- [ ] Find minimum in array
+- [*] Find minimum in array
 - [ ] Reverse array
 - [ ] Count frequency of elements
 - [ ] Find second largest element
