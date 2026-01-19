@@ -69,8 +69,8 @@
 - [*] Find maximum in array
 - [*] Find minimum in array
 - [*] Reverse array
-- [ ] Count frequency of elements
-- [ ] Find second largest element
+- [*] Count frequency of elements
+- [*] Find second largest element
 - [ ] Check if array is sorted
 - [ ] Rotate array left by K
 - [ ] Rotate array right by K
