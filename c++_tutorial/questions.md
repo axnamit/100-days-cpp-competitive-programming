@@ -71,7 +71,7 @@
 - [*] Reverse array
 - [*] Count frequency of elements
 - [*] Find second largest element
-- [ ] Check if array is sorted
+- [*] Check if array is sorted
 - [ ] Rotate array left by K
 - [ ] Rotate array right by K
 - [ ] Remove duplicates from sorted array
